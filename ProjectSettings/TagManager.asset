@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Rock
+  - JumpEnemy
+  - Turn
+  - WalkEnemy
+  - Pacman
+  - Ghost
+  - GhostHome
+  - UI
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Environment
+    uniqueID: 4213331715
+    locked: 0
+  - name: Items
+    uniqueID: 1208113021
+    locked: 0
+  - name: Characters
+    uniqueID: 1767647189
+    locked: 0
+  - name: AboveCharacter
+    uniqueID: 3907306317
+    locked: 0
+  - name: Effects
+    uniqueID: 1700357669
+    locked: 0
+  - name: UI
+    uniqueID: 3276698933
+    locked: 0

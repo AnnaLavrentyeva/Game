@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Plot/Plot.unity
+    guid: 0181e8280e8226a48bb92a677f5cd5bd
+  - enabled: 1
+    path: Assets/Scenes/Plot/Plot 1.unity
+    guid: c9e9e253aeb18ae46b735e98d39f2296
+  - enabled: 1
+    path: Assets/Scenes/Plot/Plot 2.unity
+    guid: 5964023f7bed45248acb1908a8b85d28
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 4eb3597ed8e5c7a48afd9481cb393555
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Overworld/OverworldStart.unity
+    guid: 461def63da4581c41ab1ed69b59a1c63
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Overworld/OverworldRegular00.unity
+    guid: fdbefd1cf0daa9b4583caca1a3b5bce6
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Overworld/OverworldRegular01.unity
+    guid: bd95db5a6d4ad6d42b060171d0cd6751
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Overworld/OverworldEnd.unity
+    guid: 225bd043d8a4bbb46aec56eda6d824bc
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Overworld/OverworldRegular09.unity
+    guid: b9a6e0e65a7c7304794a3b6229d54101
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Overworld/OverworldRegular02.unity
+    guid: 034f36616b39c8048841d43e05f75f9d
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Overworld/OverworldRegular03.unity
+    guid: 78a005e00cc0850469d37e123aba53ec
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Overworld/OverworldRegular07.unity
+    guid: 7b2c639eca69cb1489d75cba175ff3bf
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Overworld/OverworldRegular08.unity
+    guid: 0ea4af596534b1548afb9cd9cee9dace
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Overworld/OverworldRegular04.unity
+    guid: c6a35246477acc049a2912bc5a7c15db
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Overworld/OverworldRegular05.unity
+    guid: 20a86c5469aec3b41b561aa413dc0bc1
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Overworld/OverworldRegular06.unity
+    guid: 177d4616e97049d45beb429a32a6f728
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Overworld/OverworldRegular10.unity
+    guid: c21fcc3db48ff56458f8404d73a97e04
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Dungeons/Dungeon1.unity
+    guid: 75e11899950e37c4f9254d2cc2c760f7
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Dungeons/Dungeon2.unity
+    guid: bf79d795287026845a2160cf0dc8504a
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Dungeons/Dungeon3.unity
+    guid: 2e82f55181c7a1e4a9ec658b3d018784
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Dungeons/Dungeon4.unity
+    guid: b8678f003ffe472459b60207fe327c69
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Dungeons/Exit.unity
+    guid: 62f6cb96e401b634b80018d85634708e
+  - enabled: 1
+    path: Assets/Scenes/World.unity
+    guid: 007371e8634826149bcd407a3618407a
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: d290dfb64541cf841937cae302b168b5
+  - enabled: 1
+    path: Assets/Scenes/Pacman.unity
+    guid: d90677ae296eb4a819604ee4cf3942fa
+  m_configObjects: {}
